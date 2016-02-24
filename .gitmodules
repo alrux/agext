@@ -1,0 +1,9 @@
+[submodule "errors"]
+	path = errors
+	url = https://github.com/agext/errors
+[submodule "regexp"]
+	path = regexp
+	url = https://github.com/agext/regexp
+[submodule "uuid"]
+	path = uuid
+	url = https://github.com/agext/uuid
