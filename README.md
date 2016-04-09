@@ -4,9 +4,17 @@ A collection of tweaks and additions to the standard [Go](http://golang.org) lib
 
 ## Package list (alphabetical)
 
+### [calmly](https://github.com/agext/calmly)
+
+For panic conditions that need to be handled by the program (rather than crashing it).
+
 ### [errors](https://github.com/agext/errors)
 
-If you need to retain more information about an error message than a single string allows, just substitute this package for the one in the standard library.
+When you need to retain more information about an error message than a single string allows, just substitute this package for the one in the standard library.
+
+### [lev](https://github.com/agext/lev)
+
+Levenshtein distance and similarity metrics in Go (golang). Customizable edit costs and Winkler-like bonus for common prefix.
 
 ### [regexp](https://github.com/agext/regexp)
 

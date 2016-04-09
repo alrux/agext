@@ -1,6 +1,12 @@
+[submodule "calmly"]
+	path = calmly
+	url = https://github.com/agext/calmly
 [submodule "errors"]
 	path = errors
 	url = https://github.com/agext/errors
+[submodule "lev"]
+	path = lev
+	url = https://github.com/agext/lev
 [submodule "regexp"]
 	path = regexp
 	url = https://github.com/agext/regexp
