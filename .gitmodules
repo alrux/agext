@@ -4,15 +4,12 @@
 [submodule "errors"]
 	path = errors
 	url = https://github.com/agext/errors
-[submodule "levensthein"]
-	path = levensthein
-	url = https://github.com/agext/levensthein
+[submodule "levenshtein"]
+	path = levenshtein
+	url = https://github.com/agext/levenshtein
 [submodule "regexp"]
 	path = regexp
 	url = https://github.com/agext/regexp
 [submodule "uuid"]
 	path = uuid
 	url = https://github.com/agext/uuid
-[submodule "levenshtein"]
-	path = levenshtein
-	url = https://github.com/agext/levenshtein

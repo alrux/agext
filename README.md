@@ -12,7 +12,7 @@ For panic conditions that need to be handled by the program (rather than crashin
 
 When you need to retain more information about an error message than a single string allows, just substitute this package for the one in the standard library.
 
-### [levensthein](https://github.com/agext/levensthein)
+### [levenshtein](https://github.com/agext/levenshtein)
 
 Levenshtein distance and similarity metrics in Go (golang). Customizable edit costs and Winkler-like bonus for common prefix.
 
