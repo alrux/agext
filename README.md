@@ -1,6 +1,8 @@
 # ALRUX Go Extensions
 
-A collection of tweaks and additions to the standard [Go](http://golang.org) library. This repository acts as an index for the collection. Each available package is added as a submodule and has its own repository, linked from the title of the corresponding item in the list below.
+An open-source [Go](http://golang.org) library aiming to save developer time and sanity. It contains productivity, convenience, and utility packages developed at ALRUX.
+
+This repository acts as an index for the collection. Each available package is added as a submodule and has its own repository, linked from the title of the corresponding item in the list below.
 
 ## Package list (alphabetical)
 
